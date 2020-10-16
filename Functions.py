@@ -1,6 +1,5 @@
 """Python is Easy - Assignment #2 - Functions
-Favorite Song
-By: Abdul Wasey""" 
+Favorite Song""" 
 
 
 # Functions
