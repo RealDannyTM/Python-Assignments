@@ -1,7 +1,6 @@
 
 """Python is Easy - Assignment #03 - If Statements
-Health Checking System
-By: Abdul Wasey""" 
+Health Checking System""" 
 
 # Global Vairables
 
