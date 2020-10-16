@@ -1,7 +1,6 @@
 
 """Python is Easy - Assignment #1 - Variables -
-Favorite Song
-By: Abdul Wasey""" 
+Favorite Song""" 
 
 
 #Global Variables 
